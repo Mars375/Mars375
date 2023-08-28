@@ -11,6 +11,9 @@
   <a href="mailto:rossi.loic.pro@gmail.com" target="_blank" >
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>  
+  <a href="https://loicrossi.netlify.app/" target="_blanc">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" height="25" alt="portfolio logo" />
+  </a>
 </div>
 
 ###
