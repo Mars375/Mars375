@@ -58,6 +58,6 @@
 
 ###
 
- ![Snake animation](https://github.com/Mars375/Mars375/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/Mars375/Mars375/output/snake.svg" alt="Snake animation" />
 
 ###
