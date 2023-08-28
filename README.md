@@ -57,7 +57,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Mars375/Mars375/output/snake.svg" alt="Snake animation" />
-
-###
