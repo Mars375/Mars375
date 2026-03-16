@@ -1,72 +1,81 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
+# Loïc Rossi
 
-###
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=flat-square&logo=typescript)
+![Next.js](https://img.shields.io/badge/Next.js-15-000000?style=flat-square&logo=next.js)
+![Node.js](https://img.shields.io/badge/Node.js-22-339933?style=flat-square&logo=node.js)
+![Rust](https://img.shields.io/badge/Rust-1.8-DEA584?style=flat-square&logo=rust)
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/lo%C3%AFc-rossi-b4487b236/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:rossi.loic.pro@gmail.com" target="_blank" >
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>  
-  <a href="https://loicrossi.netlify.app/" target="_blanc">
-    <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" height="25" alt="portfolio logo" />
-  </a>
-</div>
+> Full Stack Developer & Automation Specialist
+> Paris, France · rossi.loic.pro@gmail.com
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
+## 🎯 About Me
 
-###
+Building production-ready applications with modern stack and automation-first development.
 
-<h3 align="left">👩‍💻  About Me</h3>
+**Focus:**
+- Full stack web applications (Next.js, React, TypeScript)
+- Automation & AI integrations (n8n, Claude Code, OpenAI)
+- Developer tools & B2B SaaS products
+- Clean architecture & scalable solutions
 
-###
+---
 
-<p align="left">I'm Loïc from Strasbourg<br><br>- 🔭 I’m working as front-end developer<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I play video games</p>
+## 🛠 Tech Stack
 
-###
+**Frontend:**
+- Next.js 15, React 19, TypeScript 5.0
+- Tailwind CSS 4, Framer Motion, shadcn/ui
+- State: Zustand, React Query, Redux Toolkit
 
-<h3 align="left">🛠 Language and tools</h3>
+**Backend:**
+- Node.js 22, tRPC, Prisma
+- Postgres, Supabase, Railway
+- REST & GraphQL APIs
 
-###
+**Automation:**
+- n8n (50+ production workflows)
+- Custom integrations (Claude Code, OpenAI)
+- CI/CD pipelines (GitHub Actions)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-</div>
+**DevOps:**
+- Docker, CI/CD, Vercel, Railway
+- Monitoring: Grafana, Prometheus
+- Testing: Vitest, Playwright
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
+## 💼 Projects
 
-###
+See pinned repositories below for featured work.
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mars375&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Mars375&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
+**Featured:**
+- **[Tachikoma](https://github.com/Mars375/Tachikoma)** - OpenClaw orchestrator agent
+- **[jobflow-assistant](https://github.com/Mars375/jobflow-assistant)** - Job search automation
 
-###
+**Building in public:**
+- n8n Automation Hub (marketplace)
+- Job Aggregator SaaS (MVP)
+- Video Platform (FFmpeg + S3)
+- Analytics Dashboard (real-time)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mars375/Mars375/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mars375/Mars375/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mars375/Mars375/output/github-contribution-grid-snake.svg">
-</picture>
+---
 
-###
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mars375&show_icons=true&theme=radical&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mars375&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 📧 Contact
+
+- **Email:** rossi.loic.pro@gmail.com
+- **GitHub:** [@Mars375](https://github.com/Mars375)
+- **Location:** Paris, France (Remote-friendly)
+
+---
+
+![visitors](https://visitor-badge.laobi.dev/badge?page_id=Mars375.Mars375)
