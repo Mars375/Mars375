@@ -46,13 +46,4 @@ I build production-ready web applications and workflow automation systems. Focus
 
 ---
 
-## Stats
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Mars375&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mars375&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
 **rossi.loic.pro@gmail.com** · Paris (remote-friendly)
