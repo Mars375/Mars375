@@ -1,81 +1,58 @@
 # Loïc Rossi
 
-![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=flat-square&logo=typescript)
-![Next.js](https://img.shields.io/badge/Next.js-15-000000?style=flat-square&logo=next.js)
-![Node.js](https://img.shields.io/badge/Node.js-22-339933?style=flat-square&logo=node.js)
-![Rust](https://img.shields.io/badge/Rust-1.8-DEA584?style=flat-square&logo=rust)
+**Full Stack Developer · Automation Specialist · Paris, France**
 
-> Full Stack Developer & Automation Specialist
-> Paris, France · rossi.loic.pro@gmail.com
+I build production-ready web applications and workflow automation systems. Focused on B2B SaaS, developer tooling, and making complex processes run on their own.
 
 ---
 
-## 🎯 About Me
+## Stack
 
-Building production-ready applications with modern stack and automation-first development.
+**Frontend**
 
-**Focus:**
-- Full stack web applications (Next.js, React, TypeScript)
-- Automation & AI integrations (n8n, Claude Code, OpenAI)
-- Developer tools & B2B SaaS products
-- Clean architecture & scalable solutions
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
----
+**Backend**
 
-## 🛠 Tech Stack
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-**Frontend:**
-- Next.js 15, React 19, TypeScript 5.0
-- Tailwind CSS 4, Framer Motion, shadcn/ui
-- State: Zustand, React Query, Redux Toolkit
+**Infra & Automation**
 
-**Backend:**
-- Node.js 22, tRPC, Prisma
-- Postgres, Supabase, Railway
-- REST & GraphQL APIs
-
-**Automation:**
-- n8n (50+ production workflows)
-- Custom integrations (Claude Code, OpenAI)
-- CI/CD pipelines (GitHub Actions)
-
-**DevOps:**
-- Docker, CI/CD, Vercel, Railway
-- Monitoring: Grafana, Prometheus
-- Testing: Vitest, Playwright
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 
 ---
 
-## 💼 Projects
+## Projects
 
-See pinned repositories below for featured work.
-
-**Featured:**
-- **[Tachikoma](https://github.com/Mars375/Tachikoma)** - OpenClaw orchestrator agent
-- **[jobflow-assistant](https://github.com/Mars375/jobflow-assistant)** - Job search automation
-
-**Building in public:**
-- n8n Automation Hub (marketplace)
-- Job Aggregator SaaS (MVP)
-- Video Platform (FFmpeg + S3)
-- Analytics Dashboard (real-time)
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**pulse**](https://github.com/Mars375/pulse) | SaaS metrics dashboard — MRR, churn, cohorts, customer intelligence | Next.js · tRPC · Prisma |
+| [**repoready**](https://github.com/Mars375/repoready) | Repository health & readiness tooling | TypeScript |
+| [**heartbeat**](https://github.com/Mars375/heartbeat) | Uptime and service monitoring | TypeScript |
+| [**jobflow-assistant**](https://github.com/Mars375/jobflow-assistant) | Job search workflow automation | Next.js · n8n |
+| [**full-stack-portfolio**](https://github.com/Mars375/full-stack-portfolio) | Personal portfolio — Next.js 15 + Framer Motion | Next.js · TypeScript |
 
 ---
 
-## 📈 GitHub Stats
+## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mars375&show_icons=true&theme=radical&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mars375&layout=compact&theme=radical&hide_border=true)
-
----
-
-## 📧 Contact
-
-- **Email:** rossi.loic.pro@gmail.com
-- **GitHub:** [@Mars375](https://github.com/Mars375)
-- **Location:** Paris, France (Remote-friendly)
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Mars375&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mars375&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 ---
 
-![visitors](https://visitor-badge.laobi.dev/badge?page_id=Mars375.Mars375)
+**rossi.loic.pro@gmail.com** · Paris (remote-friendly)
