@@ -1,49 +1,54 @@
 # Loïc Rossi
 
-**Full Stack Developer · Automation Specialist · Paris, France**
+**Full-stack developer building SaaS products, developer tools, and AI/automation systems.**
 
-I build production-ready web applications and workflow automation systems. Focused on B2B SaaS, developer tooling, and making complex processes run on their own.
+I focus on practical software: products people can use, tools that improve developer workflows, and self-hostable systems that make automation more reliable.
 
----
+## What I work on
+
+- **SaaS apps** with modern TypeScript stacks
+- **Developer tooling** for documentation, repo quality, and workflows
+- **AI agent infrastructure** for memory, cost tracking, auditing, and observability
+- **Automation systems** that reduce repetitive work and make operations easier to run
+
+## Selected projects
+
+### Product & SaaS
+- [**pulse**](https://github.com/Mars375/pulse) — SaaS metrics dashboard for MRR, churn, cohorts, and customer intelligence
+- [**heartbeat**](https://github.com/Mars375/heartbeat) — uptime monitoring and status pages
+- [**jobflow-assistant**](https://github.com/Mars375/jobflow-assistant) — job discovery and application tracking with alerts and digests
+- [**full-stack-portfolio**](https://github.com/Mars375/full-stack-portfolio) — personal portfolio built with Next.js and Framer Motion
+
+### Developer tools
+- [**repoready**](https://github.com/Mars375/repoready) — generates production-ready README, env, Docker, and CI setup from a GitHub repo
+- [**mcp-audit**](https://github.com/Mars375/mcp-audit) — audits MCP dependencies for quality, security, maintenance, and supply-chain risk
+
+### AI & agent infrastructure
+- [**memos**](https://github.com/Mars375/memos) — persistent, structured, local-first memory system for AI agents
+- [**agent-cost-tracker**](https://github.com/Mars375/agent-cost-tracker) — self-hostable dashboard for tracking AI agent costs across frameworks
+- [**trajectory-monitor**](https://github.com/Mars375/trajectory-monitor) — analyzes agent execution trajectories for anomalies and session quality
 
 ## Stack
 
-**Frontend**
+**Frontend**  
+TypeScript · React · Next.js · Tailwind CSS · Framer Motion
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+**Backend**  
+Node.js · Python · PostgreSQL · Prisma · Drizzle · Supabase · FastAPI
 
-**Backend**
+**Infra & automation**  
+Docker · GitHub Actions · n8n · Vercel · self-hosted tooling
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+## Current direction
 
-**Infra & Automation**
+Right now, the strongest themes across my public work are:
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+- bootstrapped SaaS product development
+- developer experience and repo tooling
+- LLM agent reliability, visibility, and memory
 
----
+## Contact
 
-## Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**pulse**](https://github.com/Mars375/pulse) | SaaS metrics dashboard — MRR, churn, cohorts, customer intelligence | Next.js · tRPC · Prisma |
-| [**repoready**](https://github.com/Mars375/repoready) | Repository health & readiness tooling | TypeScript |
-| [**heartbeat**](https://github.com/Mars375/heartbeat) | Uptime and service monitoring | TypeScript |
-| [**jobflow-assistant**](https://github.com/Mars375/jobflow-assistant) | Job search workflow automation | Next.js · n8n |
-| [**full-stack-portfolio**](https://github.com/Mars375/full-stack-portfolio) | Personal portfolio — Next.js 15 + Framer Motion | Next.js · TypeScript |
-
----
-
-**rossi.loic.pro@gmail.com** · Paris (remote-friendly)
+- **Email:** rossi.loic.pro@gmail.com
+- **Location:** Paris, France
+- **Portfolio:** [loicrossi.dev](https://loicrossi.dev)
